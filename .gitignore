@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Archives
+Zip/
+
+# Course/admin artifacts
+Assignment*.txt
+Screenshot*.png
