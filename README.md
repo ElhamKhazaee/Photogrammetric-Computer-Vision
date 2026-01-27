@@ -1,6 +1,8 @@
 # Photogrammetric Computer Vision
 
-This repository contains my exercises and Python implementations for the course **Photogrammetric Computer Vision**.
+This repository contains my exercises and Python implementations for the *Photogrammetric Computer Vision* course in the Master’s program Geodesy and Geoinformation Science at TU Berlin.
+
+**Supervised by Prof. Olaf Hellwich**, Professor of Computer Vision and Remote Sensing, Technische Universität Berlin.
 
 ## Contents
 - **Exercise 01**: Homogeneous coordinates and basic projective geometry  
