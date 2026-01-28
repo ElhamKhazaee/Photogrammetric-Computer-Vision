@@ -4,13 +4,6 @@ This repository contains my exercises and Python implementations for the *Photog
 
 **Supervised by Prof. Olaf Hellwich**, Professor of Computer Vision and Remote Sensing, [Technische Universität Berlin (TU Berlin)](https://www.tu.berlin).
 
-## Contents
-- **Exercise 01**: Homogeneous coordinates and basic projective geometry  
-- **Exercise 02**: Projective transformation (homography), rectification, panorama stitching  
-- **Exercise 03**: Camera calibration using DLT (projection matrix)  
-- **Exercise 04**: Relative orientation of an image pair (epipolar geometry, fundamental matrix)  
-- **Exercise 05**: Structure-from-Motion (SfM) pipeline
-
 ## Structure
 
 Each exercise is stored in its own folder:
