@@ -1,5 +1,8 @@
 # Photogrammetric Computer Vision
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-used-green)
+![NumPy](https://img.shields.io/badge/NumPy-used-orange)
 This repository contains my exercises and Python implementations for the *Photogrammetric Computer Vision* course in the [Master’s program Geodesy and Geoinformation Science at TU Berlin](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/geodesy-and-geoinformation-science-m-sc).
 
 **Supervised by Prof. Olaf Hellwich**, Professor of Computer Vision and Remote Sensing, [Technische Universität Berlin (TU Berlin)](https://www.tu.berlin).
