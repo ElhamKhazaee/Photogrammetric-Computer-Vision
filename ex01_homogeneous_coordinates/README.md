@@ -72,9 +72,10 @@ overall structure of the scene.
 
 ## Technologies
 
-- Python 3
-- NumPy
-- OpenCV (cv2)
+- Python 3 – core implementation
+- NumPy – homogeneous coordinates and matrix operations
+- OpenCV (cv2) – image loading and geometric transformations
+- Git & GitHub – version control
 
 ---
 

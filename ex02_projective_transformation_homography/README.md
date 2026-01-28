@@ -88,9 +88,10 @@ alignment of images taken from different viewpoints.
 
 ## Technologies
 
-- Python 3
-- NumPy
-- OpenCV (cv2)
+- Python 3 – core implementation
+- NumPy – homogeneous coordinates and homography computation
+- OpenCV (cv2) – projective image warping and panorama generation
+- Git & GitHub – version control
 
 ---
 

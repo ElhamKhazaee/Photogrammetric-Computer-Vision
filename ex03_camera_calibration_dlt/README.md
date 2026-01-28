@@ -7,7 +7,7 @@ in the **M.Sc. Geodesy and Geoinformation Science** program at
 The objective of this exercise is to perform **camera calibration**
 using the **Direct Linear Transformation (DLT)** method based on
 known **2D–3D point correspondences**.
-
+  
 ---
 
 ## Objectives
