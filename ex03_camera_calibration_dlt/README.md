@@ -126,6 +126,13 @@ These values describe the orientation and position of the camera in the
 object coordinate system and demonstrate successful camera calibration
 using the Direct Linear Transformation (DLT) method.
 
+## Technologies
+
+- Python 3 – core implementation
+- NumPy – matrix operations and linear algebra
+- OpenCV (cv2) – image handling and interactive point selection
+- Git & GitHub – version control
+
 ### Academic Context
 
 This exercise was completed as part of coursework at TU Berlin under
