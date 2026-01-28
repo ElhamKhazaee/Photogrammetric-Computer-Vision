@@ -8,6 +8,16 @@ This repository contains my exercises and Python implementations for the *Photog
 
 **Supervised by Prof. Olaf Hellwich**, Professor of Computer Vision and Remote Sensing, [Technische Universität Berlin (TU Berlin)](https://www.tu.berlin).
 
+## Highlights
+
+- Implemented fundamental **photogrammetric and computer vision algorithms** in Python from scratch  
+- Covered the full pipeline from **projective geometry and homographies** to **camera calibration (DLT)**  
+- Estimated **epipolar geometry** and **relative orientation** of image pairs using the fundamental matrix  
+- Developed a complete **Structure-from-Motion (SfM)** pipeline for sparse 3D reconstruction  
+- Reconstructed **sparse 3D point clouds** and **camera poses** from multiple images  
+- Applied **bundle adjustment** to jointly refine camera parameters and 3D structure  
+- Exported and analyzed results using professional 3D visualization tools (**MeshLab**, **CloudCompare**)
+
 ## Structure
 
 Each exercise is stored in its own folder:
