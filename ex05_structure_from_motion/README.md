@@ -97,14 +97,22 @@ bundle adjustment.
 
 ## Visualization
 
-The reconstructed point clouds were visualized using external 3D
-visualization tools:
+The reconstructed sparse point clouds were visualized using external 3D
+visualization software:
 
 - **MeshLab**
 - **CloudCompare**
 
 These tools allow interactive inspection of the reconstructed geometry
-and comparison of results before and after bundle adjustment.
+and facilitate comparison of the results before and after bundle
+adjustment.
+
+The figure below shows the reconstructed scene and estimated camera
+positions after bundle adjustment.
+
+<p align="center">
+  <img src="result.png" width="80%">
+</p>
 
 ---
 
