@@ -83,6 +83,7 @@ defined in a local object coordinate system.
 ```bash
 python3 main.py cube.jpg points3D.txt
 During execution, the user is prompted to click image points corresponding to the listed 3D points. After pressing `ESC`, the calibration results are computed and printed.
+```
 ---
 
 ## Example Output / Results
