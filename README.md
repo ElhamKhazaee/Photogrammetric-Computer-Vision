@@ -12,12 +12,14 @@ This repository contains my exercises and Python implementations for the *Photog
 - **Exercise 05**: Structure-from-Motion (SfM) pipeline
 
 ## Structure
+
 Each exercise is stored in its own folder:
-- `ex01_homogeneous_coordinates/`
-- `ex02_projective_transformation_homography/`
-- `ex03_camera_calibration_dlt/`
-- `ex04_relative_orientation_fundamental_matrix/`
-- `ex05_structure_from_motion/`
+
+- [Exercise 01 – Homogeneous Coordinates](./ex01_homogeneous_coordinates)
+- [Exercise 02 – Projective Transformation (Homography)](./ex02_projective_transformation_homography)
+- [Exercise 03 – Camera Calibration (DLT)](./ex03_camera_calibration_dlt)
+- [Exercise 04 – Relative Orientation & Fundamental Matrix](./ex04_relative_orientation_fundamental_matrix)
+- [Exercise 05 – Structure from Motion (SfM)](./ex05_structure_from_motion)
 
 ## Technologies
 
