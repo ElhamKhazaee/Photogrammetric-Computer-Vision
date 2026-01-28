@@ -80,12 +80,19 @@ including robust estimation.
 
 ## Example Input
 
+## Example Input
+
 ### Input Images
 
-<img src="img1.jpg" width="45%"> <img src="img2.jpg" width="45%">
+The following images show a spatially structured object observed from two
+different viewpoints and serve as input for fundamental matrix estimation.
 
-The images show a spatially structured object observed from two different
-viewpoints.
+| Image 1 | Image 2 |
+|--------|--------|
+| ![Image 1](img1.jpg) | ![Image 2](img2.jpg) |
+
+The overlapping regions between the two images allow the estimation of the
+fundamental matrix and visualization of epipolar geometry.
 
 ---
 
