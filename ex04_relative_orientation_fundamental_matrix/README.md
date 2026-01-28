@@ -80,7 +80,6 @@ including robust estimation.
 
 ## Example Input
 
-## Example Input
 
 ### Input Images
 
@@ -89,7 +88,7 @@ different viewpoints and serve as input for fundamental matrix estimation.
 
 | Image 1 | Image 2 |
 |--------|--------|
-| ![Image 1](img1.jpg) | ![Image 2](img2.jpg) |
+| <a href="img1.jpg"><img src="img1.jpg" width="450"></a> | <a href="img2.jpg"><img src="img2.jpg" width="450"></a> |
 
 The overlapping regions between the two images allow the estimation of the
 fundamental matrix and visualization of epipolar geometry.
