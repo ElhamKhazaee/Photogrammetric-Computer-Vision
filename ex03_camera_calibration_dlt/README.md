@@ -130,8 +130,8 @@ using the Direct Linear Transformation (DLT) method.
 
 This exercise was completed as part of coursework at TU Berlin under
 the supervision of:
-
-** Prof. Olaf Hellwich**Professor of Computer Vision & Remote Sensing
+** Prof. Olaf Hellwich**
+Professor of Computer Vision & Remote Sensing
 Technische Universität Berlin
 
 ### Notes
